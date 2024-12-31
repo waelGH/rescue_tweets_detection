@@ -1,1 +1,1 @@
-This directory includes the code related to the SVM 10-fold cross-validation 
+This directory includes the code related to the SVM 10-fold cross-validation: (1) model selection and (2) 10-fold CV
