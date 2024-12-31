@@ -1,1 +1,1 @@
-This folder includes CNN code for identifying emergency rescue tweets
+This folder includes CNN code for identifying emergency rescue tweets including: (1) model selection (2) 10-fold CV
